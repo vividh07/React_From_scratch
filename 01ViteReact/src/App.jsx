@@ -1,8 +1,8 @@
-
+import Ex from "./Ex"
 function App() {
   
   return (
-   <h1> react with vite</h1>
+   <Ex/>
   )
 }
 
